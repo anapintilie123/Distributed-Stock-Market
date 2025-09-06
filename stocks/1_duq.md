@@ -30,7 +30,7 @@ Exposing parts of a module to another module is done via a file called `module-i
 
 ## Message queues
 
-![Message Queue](images/mq.png)
+![Message Queue](../docs/images/mq.png)
 
 In this assignment, you will be creating a simple message queue. Message queues are widely used in cloud applications. Think of a large number of services (components/applications/nodes, whatever you want to call them) that are all connected and communicating with each other in various ways via a network. Message queues can be inserted into this web of components to simplify the communication and improve performance. There are numerous other benefits to using a message queue, which you can read more about [here](https://aws.amazon.com/message-queue/benefits/).
 
